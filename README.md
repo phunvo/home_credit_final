@@ -43,7 +43,6 @@ The previous version had weak performance and unstable modeling steps, so this p
 * AUC ~0.77 → good
 * KS ~0.40 → strong separation
 * Gini ~0.54 → stable scorecard quality
-* PSI ≈ 0 → almost perfect distribution stability
 
 This rebuilt version performs far better and is fully consistent between Dev/Val.
 
